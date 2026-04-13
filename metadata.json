@@ -1,0 +1,6 @@
+{
+  "name": "Automated Filming Timeline Editor",
+  "description": "A web-based UI prototype for editing automated filming timelines, featuring a video preview, resizable panels, and a frame-based timeline with drag-and-drop clip editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

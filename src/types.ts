@@ -25,8 +25,11 @@ export type Clip = {
   type: ClipType;
   startFrame: number;
   durationFrames: number;
-  data: SceneItem;
+  data?: SceneItem;
   trackId: string;
+  videoUrl?: string;
+  audioUrl?: string;
+  name?: string;
 };
 
 export type Track = {
